@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>Hi I'm Daniela (Dann Blackfish) <img src="https://media.giphy.com/media/86AOwboOKBxjWKqL7a/giphy.gif" width="50"></h2>
+<h2>Hi I'm Dann Blackfish <img src="https://media.giphy.com/media/86AOwboOKBxjWKqL7a/giphy.gif" width="50"></h2>
 
 <!--
 **DannBlackfish/DannBlackfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
