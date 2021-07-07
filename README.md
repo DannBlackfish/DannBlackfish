@@ -1,4 +1,5 @@
-<h2>Hi I'm Dann Blackfish <img src="https://media.giphy.com/media/Gcg0qWG4TIGJTjPb97/giphy.gif" width="50"></h2>
+<h2>Welcome to my page!</h2>
+<h3>Hi! I'm Dann Blackfish! <img src="https://media.giphy.com/media/Gcg0qWG4TIGJTjPb97/giphy.gif" width="50"></h3>
 
 
 <p>I studied at <a href="https://www.ironhack.com/en">Ironhack</a></p>
