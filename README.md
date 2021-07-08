@@ -1,7 +1,7 @@
 <h2>Hi! I'm Dann Blackfish! <img src="https://media.giphy.com/media/Gcg0qWG4TIGJTjPb97/giphy.gif" width="50"></h2>
 <h3>Welcome to my page!</h3>
 
-<img src="https://res.cloudinary.com/dannblackfish/image/upload/v1625773408/images/FIRMA_BLACKFISH-03_iuxzqy.png"/>
+<img src="https://res.cloudinary.com/dannblackfish/image/upload/v1625774428/images/FIRMA_BLACKFISH-03_qllmca.png"/>
 
 <p>I studied at <a href="https://www.ironhack.com/en">Ironhack</a></p>
 
