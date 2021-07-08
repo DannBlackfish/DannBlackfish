@@ -18,13 +18,13 @@
 
 <h4>You can find me:</h4>
 <a href="https://www.linkedin.com/in/daniela-ixchel-alonzo-llanos/">
-  <img align="left" alt="Dann Blackfish Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Dann Blackfish Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/DannBlackfish">
-  <img align="left" alt="Dann Blackfish Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Dann Blackfish Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://medium.com/@dannblackfish">
-  <img align="left" alt="Dann Blackfish Medium" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
+  <img align="center" alt="Dann Blackfish Medium" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
 <br />
 
