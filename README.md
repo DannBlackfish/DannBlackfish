@@ -3,7 +3,7 @@
 
 <p>I studied at <a href="https://www.ironhack.com/en">Ironhack</a></p>
 
-<h4>My favourites tools:</h4> 
+<h4>My favourites tools:<h4>
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
