@@ -17,17 +17,10 @@
    
 
 <h4>You can find me:</h4>
-<a href="https://www.linkedin.com/in/daniela-ixchel-alonzo-llanos/">
-  <img align="center" alt="Dann Blackfish Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/DannBlackfish">
-  <img align="center" alt="Dann Blackfish Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://medium.com/@dannblackfish">
-  <img align="center" alt="Dann Blackfish Medium" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
-</a>
-<br />
-
+<p><a href="https://github.com/DannBlackfish" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/daniela-ixchel-alonzo-llanos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@dannblackfish" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>  
+   
+   
 <!--
 **DannBlackfish/DannBlackfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
