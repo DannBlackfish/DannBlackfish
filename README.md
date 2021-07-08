@@ -17,16 +17,15 @@ You can find me:
 
 
 
-<a href="https://www.linkedin.com/in/kazi-amit-hasan/">
-  <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/daniela-ixchel-alonzo-llanos/">
+  <img align="left" alt="Dann Blackfish Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AmitHasanShuvo">
-  <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/DannBlackfish">
+  <img align="left" alt="Dann Blackfish Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
-  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+<a href="https://medium.com/@dannblackfish">
+  <img align="left" alt="Dann Blackfish Medium" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
-
 <br />
 
 <!--
