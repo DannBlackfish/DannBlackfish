@@ -11,6 +11,9 @@
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+   <img alt="Postman" src="https://img.shields.io/badge/-Postman-002424?style=flat-square&logo=postman&logoColor=white" />
+   
+
 
 
 <h4>You can find me:</h4>
@@ -41,4 +44,7 @@ Here are some ideas to get you started:
 
 ICONS SVG:
 https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/
+
+ICONS TOOL:
+https://shields.io/
 -->
