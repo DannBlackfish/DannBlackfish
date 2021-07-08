@@ -3,7 +3,7 @@
 
 <p>I studied at <a href="https://www.ironhack.com/en">Ironhack</a></p>
 
-<h4>My favourites tools:<h4> 
+<h4>My favourites tools:</h4> 
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -11,9 +11,9 @@
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<br/>
 
-You can find me:
-
+<h4>You can find me:</h4>
 <a href="https://www.linkedin.com/in/daniela-ixchel-alonzo-llanos/">
   <img align="left" alt="Dann Blackfish Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
