@@ -13,9 +13,6 @@ My favourites tools:
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 You can find me:
--[Medium](https://medium.com/@dannblackfish)
-
-
 
 <a href="https://www.linkedin.com/in/daniela-ixchel-alonzo-llanos/">
   <img align="left" alt="Dann Blackfish Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
