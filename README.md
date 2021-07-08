@@ -30,9 +30,7 @@ You can find me:
 <a href="https://www.kaggle.com/amithasanshuvo">
   <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://www.researchgate.net/profile/Kazi_Amit_Hasan">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
-</a>
+
 <br />
 
 <!--
